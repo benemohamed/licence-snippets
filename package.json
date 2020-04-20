@@ -1,0 +1,30 @@
+{
+    "name": "licence-snippets",
+    "displayName": "Licence Snippets",
+    "description": "Licence Snippets ",
+    "version": "0.0.1",
+    "icon": "/assets/logo.png",
+    "publisher": "benemohamed",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/benemohamed/licence-snippets.git"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "galleryBanner": {
+        "color": "#549BFF",
+        "theme": "dark"
+    },
+    "contributes": {
+        "snippets": [
+            {
+                "language": "plaintext",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
