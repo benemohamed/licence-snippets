@@ -1,6 +1,8 @@
 
 <p align="center">
+    <a href="https://marketplace.visualstudio.com/items?itemName=benemohamed.licence-snippets">
       <img src="assets/logo.png" alt="Licence logo" width="100px"/>
+    </a>
 </p>
 
 # This is Licence Snippets README
@@ -16,7 +18,7 @@ Go to the [git](https://github.com/benemohamed/licence-snippets) and download  f
 
 - Mac: ```/Users/$HOME/Library/Application Support/Code/User/extensions/```
 - Windows: ```< your-installed-driver > :\Users\ $HOME \AppData\Roaming\Code\User\extensions\```
-- Linux: ```/home/moha/.vscode/extensions```
+- Linux: ```/home/$HOME/.vscode/extensions```
 
 ### Through VS Code Extensions
 
