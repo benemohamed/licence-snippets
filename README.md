@@ -1,3 +1,8 @@
+
+<p align="center">
+      <img src="assets/logo.png" alt="Licence logo" width="100px"/>
+</p>
+
 # This is Licence Snippets README
 
 This Extensions provides the full text (for LICENCE files) as well as
