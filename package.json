@@ -2,7 +2,7 @@
     "name": "licence-snippets",
     "displayName": "Licence Snippets",
     "description": "Licence Snippets ",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icon": "assets/logo.png",
     "publisher": "benemohamed",
     "engines": {

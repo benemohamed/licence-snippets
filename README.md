@@ -27,7 +27,7 @@ Go to the [git](https://github.com/benemohamed/licence-snippets) and download  f
 
 ### Usage
 
-To insert, for example, in a source file type *licence_* and choose Licence.
+To insert, for example, in a source file type `licence_` and choose Licence.
 
 ### List open source licences
 
