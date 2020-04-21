@@ -22,8 +22,8 @@ Go to the [git](https://github.com/benemohamed/licence-snippets) and download  f
 
 ### Through VS Code Extensions
 
-- From website: Go to Visual Studio Code [Marketplace](https://marketplace.visualstudio.com/), and search 'Element UI Snippets', then click the install button.
-- From VS Code: click extensions sidebar, and search 'Element UI Snippets', then click the install button.
+- From website: Go to Visual Studio Code [Marketplace](https://marketplace.visualstudio.com/), and search 'Licence  Snippets', then click the install button.
+- From VS Code: click extensions sidebar, and search 'Licence  Snippets', then click the install button.
 
 ### Usage
 
